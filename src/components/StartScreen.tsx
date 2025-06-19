@@ -51,9 +51,9 @@ const StartScreen = ({ onStart }: StartScreenProps) => {
               </div>
             </h1>
             <p className="text-xl md:text-2xl text-sage-600 dark:text-sage-300 max-w-2xl mx-auto leading-relaxed font-light">
-              Elevate your typing prowess with precision-crafted challenges. 
+              Master the art of typing with precision-built challenges. 
               <span className="block mt-2 text-lg text-sage-500 dark:text-sage-400">
-                Track progress • Master rhythm • Achieve flow state
+                Track progress • Built rhythm • Unlock flow
               </span>
             </p>
           </div>
